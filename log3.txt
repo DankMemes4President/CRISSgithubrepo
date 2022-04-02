@@ -1,0 +1,10 @@
+*   7f8a38d (HEAD -> main, origin/main, origin/HEAD) Merge branch 'newbranch' into main
+|\  
+| * 7865301 (origin/newbranch, newbranch) Testing stuff
+* | c1defa9 Merge conflict resolved
+|\| 
+| * e6d4f1a 2nd commit in newbranch
+* | 61c3f1e 2nd commit in main
+|/  
+* 34881d4 2nd commit
+* cea2872 Initial commit

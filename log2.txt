@@ -1,0 +1,14 @@
+*    Hash: 7f8a38d Date: 7 minutes ago
+|\   Message: Merge branch 'newbranch' into main 
+| *  Hash: 7865301 Date: 7 minutes ago
+| |  Message: Testing stuff 
+* |  Hash: c1defa9 Date: 9 minutes ago
+|\|  Message: Merge conflict resolved 
+| *  Hash: e6d4f1a Date: 13 minutes ago
+| |  Message: 2nd commit in newbranch 
+* |  Hash: 61c3f1e Date: 12 minutes ago
+|/   Message: 2nd commit in main 
+*  Hash: 34881d4 Date: 38 minutes ago
+|  Message: 2nd commit 
+*  Hash: cea2872 Date: Fri 21:44
+   Message: Initial commit 
